@@ -23,23 +23,7 @@ to build a full-stack API with user authentication, database models, and CRUD op
    ```bash
    https://github.com/sneaky91/FastAPI-myfirstAPI-.git
 
-fastapi-blog/
-├── main.py              # FastAPI app entry point
-├── config.py            # Configuration (SECRET_KEY, DB_URI)
-├── database.py          # Database connection
-├── models.py            # SQLAlchemy models (User, Post)
-├── schemas.py           # Pydantic models (UserCreate, PostBase, etc.)
-├── routers/             # FastAPI routes (auth, posts, users)
-├── auth.py              # Authentication functions (JWT, password hashing)
-├── image_utils.py       # Image processing (resize, save)
-├── populate_db.py       # Populate database with sample data
-├── templates/           # Jinja2 templates (optional — for email confirmation)
-├── static/              # Static files (profile pictures, CSS, JS)
-├── .env.example         # Environment template
-├── .gitignore
-├── pyproject.toml       # Dependencies (if using uv/poetry)
-├── uv.lock              # uv lock file
-└── README.md            # This file
+
 
 ## 🔐 Authentication Endpoints
 
