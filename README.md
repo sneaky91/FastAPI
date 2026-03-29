@@ -1,4 +1,4 @@
-# FastAPI Blog Tutorial by Corey Schafer
+# FastAPI (My first FastAPI)
 
 to build a full-stack API with user authentication, database models, and CRUD operations — using **FastAPI**, **SQLAlchemy**, **Pydantic**, and **uv**.
 
