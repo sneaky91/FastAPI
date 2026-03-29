@@ -40,9 +40,9 @@ http://127.0.0.1:8000/
 
 ## 🔐 Authentication Endpoints
 
-* **POST /users/** — Register new user
-* **POST /login** — Login and get access token
-* **GET /users/me** — Get current user (requires token)
-* **GET /users/{user_id}** — Get user by ID
+* **POST api/users** — Register new user when do you create the user go to autorize and # in username YOU NEED TO PUT your EMAIL adress plz do not forgot pasword and email!!!
+* <img width="623" height="384" alt="{244F6B42-E98D-4109-8CDF-B2CA08EFDF4A}" src="https://github.com/user-attachments/assets/a53b0aa6-8463-4ee2-aa39-6a7a1bec3897" />
+
+
 
 # By Sneaky You can use this and share
