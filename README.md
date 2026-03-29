@@ -23,25 +23,6 @@ to build a full-stack API with user authentication, database models, and CRUD op
    ```bash
    https://github.com/sneaky91/FastAPI-myfirstAPI-.git
 
-   **Create virtual environment and install dependencies:**
-
-   ```bash
-   uv venv
-   source .venv/bin/activate  # On Windows: .venv\Scripts\activate
-   uv pip install -e .
-
-#bash
-cp .env.example .env
-# Edit .env with your SECRET_KEY and DATABASE_URL
-
-#bash
-python populate_db.py
-
-#bash
-uvicorn main:app --reload
-
-## 📂 Project Structure
-
 fastapi-blog/
 ├── main.py              # FastAPI app entry point
 ├── config.py            # Configuration (SECRET_KEY, DB_URI)
