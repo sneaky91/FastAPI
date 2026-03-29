@@ -21,7 +21,7 @@ to build a full-stack API with user authentication, database models, and CRUD op
 
 1. Clone the repo:
    ```bash
-   https://github.com/sneaky91/FastAPI-myfirstAPI-.git
+      https://github.com/sneaky91/FastAPI.git
 
 # before go to the website you need to do this
  Go to terminal in vscode or pycharm and do this bash script
