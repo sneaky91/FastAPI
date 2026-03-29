@@ -41,7 +41,8 @@ http://127.0.0.1:8000/
 ## 🔐 Authentication Endpoints
 
 * **POST api/users** — Register new user when do you create the user go to autorize and # in username YOU NEED TO PUT your EMAIL adress plz do not forgot pasword and email!!!
-* <img width="623" height="384" alt="{244F6B42-E98D-4109-8CDF-B2CA08EFDF4A}" src="https://github.com/user-attachments/assets/a53b0aa6-8463-4ee2-aa39-6a7a1bec3897" />
+* <img width="623" height="384" alt="{244F6B42-E98D-4109-8CDF-B2CA08EFDF4A}" src="https://github.com/user-attachments/assets/a53b0aa6-8463-4ee2-aa39-6a7a1bec3897" /> <img width="1525" height="730" alt="{5B5EF695-D056-4AC4-8948-0F21EA903058}" src="https://github.com/user-attachments/assets/41c7e62a-a499-4a45-b680-c63d3d0839b0" />
+
 
 
 
