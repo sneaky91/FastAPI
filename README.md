@@ -23,6 +23,11 @@ to build a full-stack API with user authentication, database models, and CRUD op
    ```bash
    https://github.com/sneaky91/FastAPI-myfirstAPI-.git
 
+## You have website 
+https://localhost:8000/ -- this a website
+
+## And you have FastAPI-Swagger UI
+https://localhost:8000/docs
 
 
 ## 🔐 Authentication Endpoints
