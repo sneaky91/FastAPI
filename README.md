@@ -32,4 +32,4 @@ to build a full-stack API with user authentication, database models, and CRUD op
 * **GET /users/me** — Get current user (requires token)
 * **GET /users/{user_id}** — Get user by ID
 
-#By Sneaky You can use this and share
+# By Sneaky You can use this and share
