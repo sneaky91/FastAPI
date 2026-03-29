@@ -23,16 +23,16 @@ to build a full-stack API with user authentication, database models, and CRUD op
    ```bash
    https://github.com/sneaky91/FastAPI-myfirstAPI-.git
 
-## before go to the website you need to do this
-# Go to terminal in vscode or pycharm and do this bash script
-# uv run fastapi dev main.py
+# before go to the website you need to do this
+ Go to terminal in vscode or pycharm and do this bash script
+--- 👌 uv run fastapi dev main.py
 
-## You have website 
+# You have website 
 https://localhost:8000/ -- this a website
 ## or 
 http://127.0.0.1:8000/
 
-## And you have FastAPI-Swagger UI
+# And you have FastAPI-Swagger UI
 https://localhost:8000/docs
 ## or
 http://127.0.0.1:8000/
