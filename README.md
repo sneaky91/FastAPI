@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 =======
 # FastAPI (My first FastAPI)
 
@@ -49,4 +48,3 @@ http://127.0.0.1:8000/
 
 
 # By Sneaky You can use this and share
->>>>>>> 55e7f2176d89f7ff8047edf83a93fc163e87afb0
