@@ -1,4 +1,3 @@
-=======
 # FastAPI (My first FastAPI)
 
 to build a full-stack API with user authentication, database models, and CRUD operations — using **FastAPI**, **SQLAlchemy**, **Pydantic**, and **uv**.
@@ -30,13 +29,9 @@ to build a full-stack API with user authentication, database models, and CRUD op
 
 # You have website 
 https://localhost:8000/ -- this a website
-## or 
-http://127.0.0.1:8000/
 
 # And you have FastAPI-Swagger UI
 https://localhost:8000/docs
-## or
-http://127.0.0.1:8000/
 
 
 ## 🔐 Authentication Endpoints
