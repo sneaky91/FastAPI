@@ -29,10 +29,7 @@ to build a full-stack API with user authentication, database models, and CRUD op
 https://localhost:8000/ -- this a website
 
 # Swagger UI
-https://localhost:8000/docs
-
-
-## 🔐 Authentication Endpoints
+https://localhost
 
 
 
