@@ -27,10 +27,10 @@ to build a full-stack API with user authentication, database models, and CRUD op
  Go to terminal in vscode or pycharm and do this bash script
 --- 👌 uv run fastapi dev main.py
 
-# You have website 
+# website(for Layout you can change 🫪)
 https://localhost:8000/ -- this a website
 
-# And you have FastAPI-Swagger UI
+# Swagger UI
 https://localhost:8000/docs
 
 
