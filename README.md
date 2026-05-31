@@ -23,9 +23,7 @@ to build a full-stack API with user authentication, database models, and CRUD op
    ```bash
       https://github.com/sneaky91/FastAPI.git
 
-# before go to the website you need to do this
- Go to terminal in vscode or pycharm and do this bash script
---- 👌 uv run fastapi dev main.py
+ 
 
 # website(for Layout you can change 🫪)
 https://localhost:8000/ -- this a website
