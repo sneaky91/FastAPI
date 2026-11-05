@@ -1,4 +1,4 @@
-# FastAPI (My first FastAPI)
+# FastAPI
 
 to build a full-stack API with user authentication, database models, and CRUD operations — using **FastAPI**, **SQLAlchemy**, **Pydantic**, and **uv**.
 
