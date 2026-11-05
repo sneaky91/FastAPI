@@ -25,7 +25,7 @@ to build a full-stack API with user authentication, database models, and CRUD op
 
  
 
-# website(for Layout you can change 🫪)
+# website
 https://localhost:8000/ -- this a website
 
 # Swagger UI
